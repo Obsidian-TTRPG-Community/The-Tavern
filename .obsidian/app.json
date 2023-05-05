@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "00-Behind-The-Bar/02-Attachments",
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "spellcheck": true
+}
