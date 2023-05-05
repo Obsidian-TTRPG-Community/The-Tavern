@@ -8,3 +8,4 @@
 # Ignore Personal Config Folders 
 # (I use vim mode and very weird keybinds, I don't want to force that on others)
 .craftidore/
+.obsidian.vimrc
