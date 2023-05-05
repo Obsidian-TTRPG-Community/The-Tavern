@@ -1,0 +1,11 @@
+# 
+.obsidian/workspace.json
+
+# Don't commit plugin code, just settings
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json
+
+# Ignore Personal Config Folders 
+# (I use vim mode and very weird keybinds, I don't want to force that on others)
+.craftidore/
+.obsidian.vimrc
