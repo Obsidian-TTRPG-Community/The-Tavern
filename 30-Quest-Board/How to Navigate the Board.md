@@ -1,7 +1,7 @@
 # Introduction
 
 ### Jethoof's Quest Board (JQB) is for
-Game Masters (GM) looking for inspirations and examples of designing a side events through use of various tables. This is a system neutral and therefore will not contain mechanics from table top role playing games. 
+Game Masters (GM) looking for inspirations and examples of designing a side events through use of various tables. This is a system neutral and therefore will not contain mechanics from specific table top role playing games however, it would contain some examples on how you can use this to enrich your game. 
 ### Jethoof's Quest Board (JQB) is NOT for
 This is not a campaign settings guide or Source Reference Document (SRD) for rules. 
 
