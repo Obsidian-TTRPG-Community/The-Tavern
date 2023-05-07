@@ -1,5 +1,7 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-dice-roller",
+  "table-editor-obsidian"
 ]
