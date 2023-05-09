@@ -3,17 +3,16 @@
 Creating a random tables are really fun and helps in creating various situations from table top games to just writing inspirations. I have been using Dice Roller for both ways and here are some of the things I have found out.
 
 ## Tables in Tables  in Tables 
-
-
 > [!tldr] 
 > You can nest table results in tables and so on to create very complex generator.
-
+^tldr1
 
 You can create very complex tables with Dice Roller and here I will share something very simple with examples. In a typcial setting you would be looking for something like this:
 
 
 > [!example] 
 > [creature] is [height] and [physical trait] and is interested in [modifier] [motivation] and [modifier] [motivation] from the players. 
+^example1
 
 Each of the [field] is something you can create a table and you can test each of the setups. I use header 6 for tables and always include block (^) with table[#] for accessibility and consistency. 
 ###### Table 1 - 1d6 Table 
@@ -30,7 +29,7 @@ The above table has 15% rolling option 1 and 4 while 30% for option 2 and 3.
 
 > [!example]
 > `dice:[[Creating Complex Tables#^table1]]` and `dice:[[Creating Complex Tables#^table1]]` can happen.
-
+^example2
 This works for one set of topics but what if we can go deeper? We can add the tables within the table.
 
 ###### Table 2 - 1d4 Table 
@@ -45,18 +44,18 @@ This works for one set of topics but what if we can go deeper? We can add the ta
 > [!example]
 > `dice:[[Creating Complex Tables#^table2]]` can happen. 
 > 
-
+^example3
 You can see now the option 5 is 50% and option 6 is 25% while Option 1-4 is now lot lower because it's nested within the 25%. If you make tables that are basic building blocks you can combine into a complex one. 
 
 ###### Table 3 - Location
 
- | Location                                                       |
- | -------------------------------------------------------------- |
- | `dice:[[Creating Complex Tables#^table4]]` Tavern  |
- | `dice:[[Creating Complex Tables#^table4]]` Market  |
- | `dice:[[Creating Complex Tables#^table4]]` Dungeon |
- | `dice:[[Creating Complex Tables#^table4]]` Forest  |
- | `dice:[[Creating Complex Tables#^table5]]`  and  `dice:[[Creating Complex Tables#^table6]]` home                                                               |
+ | Location                                                                                         |
+ | ------------------------------------------------------------------------------------------------ |
+ | `dice:[[Creating Complex Tables#^table4]]` Tavern                                                |
+ | `dice:[[Creating Complex Tables#^table4]]` Market                                                |
+ | `dice:[[Creating Complex Tables#^table4]]` Dungeon                                               |
+ | `dice:[[Creating Complex Tables#^table4]]` Forest                                                |
+ | `dice:[[Creating Complex Tables#^table5]]`  and  `dice:[[Creating Complex Tables#^table6]]` home |
 ^table3
 
 ###### Table 4 - Senses
@@ -93,12 +92,12 @@ Now you can roll Table 3 to get a result `dice:[[Creating Complex Tables#^table3
 
 One thing to note, if you want to make a table with fair chance for all the options, you can make tables like 3 and 4. If you want to give some weight to certain rolls, include the "**dice: xdy**" column to create a range, I recommend using percentile die (`dice: d%`). 
 
-## xy table 
+## XY table 
 
 
-> [!tldr] 
+> [!tldr] XY Table
 > XY table option gives you a nice visualization to view, however it cannot be nested in tables.
-
+^tldr2
 
 Sometimes you want to create a matrix table with various results based on rolling two dice and many of the 2d20 systems, 2d6 systems uses these tables quite frequently. Dice Roller has a function to roll these tables with some caveats and the biggest benefit to this is how easy it is to view the table in a matrix format than a single table for every condition.
 
