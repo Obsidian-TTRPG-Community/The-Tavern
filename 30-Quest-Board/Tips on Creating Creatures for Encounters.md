@@ -29,7 +29,7 @@ Let's combine all the tables together to generate an encounter for the adventuri
 ## The Concept
 Once you have a concept with the prompt or just by looking at the list, you can come up with what kind of creature it might be. Think about the creature's natural habitat and how it would behave. 
 
-> [!example] Prompt: Huge Cold Ooze
+> [!example]- Prompt: Huge Cold Ooze
 > Name: Creeping Cold
 > 
 > Not much of this creature is known other than it seeps out from the grounds in late fall or early winter from its hibernation and creeps around, mostly just below the ground and seeking prey. the only way to know whether they are there or not is to notice a feint white glow coming from the ground or the place where creeping cold is colder than its surroundings. Once its prey is near, its ooze ambushes on unsuspecting prey lured to its light and turns it into a frozen ice. Some keen merchants pointed out it does not touch their goods but froze their beast of burden and not their food supply, hinting it only prefers living prey or turn the living into a frozen icicle. 

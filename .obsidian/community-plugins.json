@@ -3,5 +3,6 @@
   "templater-obsidian",
   "obsidian-kanban",
   "obsidian-dice-roller",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "webpage-html-export"
 ]

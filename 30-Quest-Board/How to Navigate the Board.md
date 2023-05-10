@@ -6,7 +6,6 @@ Game Masters (GM) looking for inspirations and examples of designing a side even
 This is not a campaign settings guide or Source Reference Document (SRD) but some of the SRD materials might be used for example, mainly Dungeons and Dragons 5th Edition (D&D 5E). 
 
 # How to Navigate this Vault
-
 ## Callout Uses
 > [!tldr] Summary
 > This would be at the very top of the document as a quick reminder of what this section is about.
