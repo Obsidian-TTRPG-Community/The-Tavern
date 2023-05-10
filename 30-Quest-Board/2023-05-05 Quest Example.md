@@ -7,7 +7,6 @@
 >   
 >   Feel free to move around the words, combine them together to create more complex side quest. Looking forward to what you will create! 
 
-
 > [!example]- Re-Possessed
 > Submitted by: LittleMaelstrom
 > 
@@ -31,4 +30,5 @@
 
 > [!example]- Taxing Bandits
 > Submitted by jethoof
+> 
 > A request came to the party looking for someone to persuade an influential noble in the region to lower the taxes. The noble states the taxes are needed to guard the trade routes and may need further tax increase to raise or hire an army to attack the local bandit settlement. The bandit settlement is protected by a magical item and preventing them from making direct attacks. The noble requests the party to sneak into the bandit settlement and steal or destroy the magical item protecting the bandit settlement.
