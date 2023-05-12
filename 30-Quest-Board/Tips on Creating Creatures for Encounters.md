@@ -1,6 +1,6 @@
 # Creating Creatures for Encounters
 
-> [!tldr] Creating Creatures for Encounte
+> [!tldr] Creating Creatures for Encounter
 > - Use the [[#Tables]] to pick or generate the creature
 > - Breathe life into the creature by creating its lore
 > - Create mechanics based on the lore
