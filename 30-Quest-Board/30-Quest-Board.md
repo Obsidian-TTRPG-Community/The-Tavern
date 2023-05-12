@@ -1,3 +1,5 @@
+# Welcome to Jethoof's Emporium of Requests
+
 # Introduction 
 There's a human in the corner of the tavern sipping his drink from a strange looking iron flask decorated with colorful braided threads. Behind him rests a large wooden board with various pieces of notices; one written on a parchment with rich blue black ink with a intricate seal, a torn leather piece with notice written in dried blood and a wanted poster. 
 
@@ -12,13 +14,13 @@ There's a human in the corner of the tavern sipping his drink from a strange loo
 # Quest Board
 I know you have the big idea of heroes saving the world from certain doom and sometimes there can be some event the heroes stumble upon during their journey. Perhaps this is the main course for your campaign.  There are many reference books out there you can use to draw inspiration from and this is my method of generating events. These can be used for you to generate the main, sub and side plots when you feel you are stuck. 
 
-[[Quest Table]] is my go to table when I want or need some inspiration on what kind of elements to use. It is left vague for you to fill in the details since your world setting would be different from my world.
+[[Quest-Table]] is my go to table when I want or need some inspiration on what kind of elements to use. It is left vague for you to fill in the details since your world setting would be different from my world.
 
-![[Quest Table#^dice1]]
+![[Quest-Table#^dice1]]
 
 I will provide some of the examples I have based on the result of the tables I have. Also feel free to expand the table on your own to make it more complicated. Which will be covered in [[Creating Complex Tables]]
 
-> [!example] Botched Binding (Prompt: [[Quest Table#^dice1|Aid Event]])
+> [!example] Botched Binding (Prompt: [[Quest-Table#^dice1|Aid Event]])
 > ### 
 > A dire bear, severely wounded, barreled through the woods and ambushed the party. Once defeated a ranger comes through, drenched in sweat and tired looking complains it was his catch and the party ruined his ritual of binding. He introduces himself as [name here], a spirit binder, and was in a middle of challenging the creature in a ritual of binding to become his spirit companion. The creature was already causing trouble in the nearby village and he thought it would have been fine as long as he was able to bind the creature's spirit under his command. 
 > 
@@ -28,6 +30,6 @@ I will provide some of the examples I have based on the result of the tables I h
 ^example1
 This side story was actually used in one of my campaign for a filler episode in between story arcs. 
 
-# ![[Tips on Creating Creatures for Encounters]]
+# ![[Tips-on-Creating-Creatures-for-Encounters]]
 
-# [[Creating a Side Story]]
+# [[Creating-a-Side-Story]]

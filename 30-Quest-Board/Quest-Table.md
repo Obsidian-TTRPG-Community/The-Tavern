@@ -11,7 +11,7 @@
 ## Creating a Complex Quest
 You can create a complex quest structure by creating milestones for the quest,
 
-![[2023-05-05 Quest Example]]
+![[2023-05-05--Quest-Example]]
 
 # Tables
 
