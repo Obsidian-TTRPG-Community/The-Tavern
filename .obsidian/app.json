@@ -10,6 +10,10 @@
   "strictLineBreaks": true,
   "showFrontmatter": true,
   "foldIndent": false,
-  "showIndentGuide": false,
-  "spellcheck": true
+  "showIndentGuide": true,
+  "spellcheck": true,
+  "useTab": false,
+  "userIgnoreFilters": [
+    "00-Behind-The-Bar/04-Templater/"
+  ]
 }

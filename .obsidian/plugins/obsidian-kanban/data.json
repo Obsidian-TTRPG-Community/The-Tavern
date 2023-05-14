@@ -1,3 +1,4 @@
 {
-  "new-line-trigger": "enter"
+  "new-line-trigger": "enter",
+  "show-archive-all": false
 }

@@ -1,5 +1,5 @@
 {
-  "renderNullAs": "The Tavern's Out of Ale",
+  "renderNullAs": "The Tavern's Out of Ale (Null)",
   "taskCompletionTracking": false,
   "taskCompletionUseEmojiShorthand": false,
   "taskCompletionText": "completion",
@@ -11,7 +11,7 @@
   "defaultDateFormat": "MMMM dd, yyyy",
   "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
   "maxRecursiveRenderDepth": 4,
-  "tableIdColumnName": "File",
+  "tableIdColumnName": "Note",
   "tableGroupColumnName": "Group",
   "showResultCount": true,
   "allowHtml": true,
@@ -19,8 +19,8 @@
   "inlineJsQueryPrefix": "$=",
   "inlineQueriesInCodeblocks": true,
   "enableInlineDataview": true,
-  "enableDataviewJs": true,
-  "enableInlineDataviewJs": true,
+  "enableDataviewJs": false,
+  "enableInlineDataviewJs": false,
   "prettyRenderInlineFields": true,
   "dataviewJsKeyword": "dataviewjs"
 }
