@@ -1,3 +1,10 @@
+---
+attribution: jethoof
+creation: 2023-05-06
+modified: 2023-05-13
+type: guide
+---
+
 # Crafting Complex Tables
 
 Creating a random tables are really fun and helps in creating various situations from table top games to just writing inspirations. I have been using Dice Roller for both ways and here are some of the things I have found out.

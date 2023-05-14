@@ -1,3 +1,10 @@
+---
+attribution: jethoof
+creation: 2023-05-06
+modified: 2023-05-13
+type: folder
+---
+
 # Welcome to Jethoof's Emporium of Requests
 
 # Introduction 
