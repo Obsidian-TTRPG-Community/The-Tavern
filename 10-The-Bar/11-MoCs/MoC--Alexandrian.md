@@ -1,9 +1,9 @@
 ---
-type: MoC
 attribution: Craftidore
-link: https://thealexandrian.net
 creation: 2023-05-12
 modification: 2023-05-12
+type: source
+link: https://thealexandrian.net
 ---
 
 The Alexandrian is a blog (and youtube channel) dedicated to GMing tips and advice.

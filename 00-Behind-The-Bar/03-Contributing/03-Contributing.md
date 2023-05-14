@@ -1,7 +1,7 @@
 ---
 attribution: Craftidore
 creation: 2023-05-13
-modification: 2023-05-13
+modification: 2023-05-14
 type: folder
 ---
 
@@ -14,7 +14,7 @@ What I'm trying to get at is that this is meant to be used **as an Obsidian vaul
 
 Because of this, my organizational decisions are designed around someone actively exploring this vault, not grabbing a single piece of information and leaving&mdash;people can do that too, it's just not what the organization is built around.
 These goals have led me to make an *opinionated vault*; I have made organizational decisions and note conventions that not everyone will agree with.
-That said, I'm more than open to feedback the conventions I've set; 
+That said, I'm more than open to feedback on the conventions I've set; 
 if you have ideas on how to make things clearer or think some of my current conventions are confusing, please make an [issue on Github](https://github.com/Obsidian-TTRPG-Community/The-Tavern/issues) and I'd love to talk about it.
 
 - [[#Getting Started With Git]]
@@ -36,7 +36,7 @@ if you have ideas on how to make things clearer or think some of my current conv
 
 Rules:
 
-- No spaces in filenames&mdash;use dashes instead. Some of use terminals. Also avoid quotes (just omit them).
+- No spaces in filenames&mdash;use dashes instead. Some of use terminals. Also avoid single/double quotes (just omit them; for example <u>Don't Prep Plots</u> becomes [[Alexandrian--Dont-Prep-Plots]]).
 - Capitalize-Each-Word
 
 Loose Guidelines:
@@ -47,8 +47,8 @@ Loose Guidelines:
     - and to group similar things in a folder together (all the notes on Alexandrian articles in [[20-Bathroom-Library]] are shown together in the file explorer)
 - I don't have hard rules on how prefixes need to be determined, just guidelines
 - If it's more important that the 'type' of content be known, make that the prefix (i.e. [[Campaign--Eternal-Lies]]).
-- If it's more important who the author or organization be associated with the content, especially for sake of grouping files, use that as the prefix ([[Alexandrian--Three-Clue-Rule]] or [[Harper--Lady-Blackbird]])
-- No dupe filenames if you can help it.
+- If it's more important that the author or organization be associated with the content, especially for sake of grouping files, use that as the prefix ([[Alexandrian--Three-Clue-Rule]] or [[Harper--Lady-Blackbird]])
+- No dupe filenames if you can at all help it.
 - In the case of date-based notes (like quests for the [[30-Quest-Board]]), you may use the date in `YYYY-MM-DD` format as the prefix.
 
 #### Frontmatter
@@ -61,17 +61,19 @@ All notes should have frontmatter. At the very least, every note should have `at
 |   `creation`   | `YYYY-MM-DD` date of note creation                                                                                                                |
 | `modification` | `YYYY-MM-DD` date of last note modification                                                                                                       |
 | `type` | Type of note (`folder` for folder note, `resource-summary` for most stuff in [[20-Bathroom-Library]], etc.) Should already be filled in based on what template you use. |
-|     `link`     | Link to resource the note is about.                                                                                                               |
+|     `link`     | External link to resource the note is about. If it's a blog post, link the blog post. If it's an organization, link their website, etc. |
 |    `author`    | Author of the resource the note is about.                                                                                                         |
 | `content-type` | Type of content this note is about (i.e. `video`, `article`, `book`, `podcast`)                                                                   |
 |     `date`     | Date the resource this note is about was published/released/etc. Guess if you have to.                                                            |
+
+The default Templater hotkey for 'jump to next cursor position' is `Ctrl`/`Cmd n`; each frontmatter location is marked as a cursor jump position.
 
 #### Contents
 
 - Each file should have an H1 header, even if that H1 header is just `` `=this.file.name` ``.
 - No more than 1 H1 header per note
 - Most files should have an h2 header called "Related" at the end, listing what other things relate to this note and why
-- Assume that the note is being viewed in reading mode (so stuff like `&mdash;` are fine).
+- Assume that the note is being viewed in reading mode (so stuff like `&mdash;` and footnotes are fine).
 - Use html escape codes for non-ascii characters when possible
 - Always use a Templater template, even if you just use the [[Generic-Template]].
 - **Strict Line Breaks is on**. Be sure to include 2 linebreaks between paragraphs, and 2 spaces at the end of lines when you want a linebreak afterwards.
@@ -79,14 +81,14 @@ All notes should have frontmatter. At the very least, every note should have `at
 
 ## Getting Started With Git
 
-This guide assumes you've used git before. If you haven't, refer to the git contribution guide for the TTRPG share repo (it doesn't exist yet, just @ me in the Obsidian discord until then, and I'll walk you through it).
+This guide assumes you've used git before. If you haven't, refer to the git contribution guide for the TTRPG share repo (if it doesn't exist yet, just @ me in the Obsidian TTRPG Community discord, and I'll walk you through it).
 
 1. Fork vault on github
 2. Clone vault locally
 3. Duplicate the `.obsidian` folder inside the vault, and rename it to `.yourGithubUsername`
 4. At the bottom of the `.gitignore` file, add `.yourGithubUsername/` on it's own line.
 5. Open Obsidian, and in Settings → About, set your configuration folder to `.yourGithubUsername`
-6. Go install the plugins listed in the [[00-Behind-The-Bar/02-Attachments/README|README]] (the settings should already be setup from the copied config folder)
+6. Go install the plugins listed in the [[README]] (the settings should already be setup from the copied config folder)
 
 This lets you use your own hotkeys/settings/etc. without accidentally modifying the vault settings.
 

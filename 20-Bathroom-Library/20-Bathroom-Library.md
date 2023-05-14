@@ -1,6 +1,8 @@
 ---
+attribution: Craftidore
+creation: 2023-05-12
+modified: 2023-05-14
 type: folder
-alias: Bathroom Library
 ---
 
 # Bathroom Library
