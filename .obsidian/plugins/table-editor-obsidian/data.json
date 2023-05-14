@@ -1,6 +1,6 @@
 {
-  "formatType": "normal",
-  "showRibbonIcon": true,
+  "formatType": "weak",
+  "showRibbonIcon": false,
   "bindEnter": true,
   "bindTab": true
 }
