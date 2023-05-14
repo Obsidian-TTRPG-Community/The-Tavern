@@ -67,7 +67,7 @@ All notes should have frontmatter. At the very least, every note should have `at
 | `content-type` | Type of content this note is about (i.e. `video`, `article`, `book`, `podcast`)                                                                   |
 |     `date`     | Date the resource this note is about was published/released/etc. Guess if you have to.                                                            |
 
-The default Templater hotkey for 'jump to next cursor position' is `Ctrl`/`Cmd n`; each frontmatter location is marked as a cursor jump position.
+The default Templater hotkey for 'jump to next cursor position' is `Alt Tab`; each frontmatter location is marked as a cursor jump position.
 
 #### Contents
 
