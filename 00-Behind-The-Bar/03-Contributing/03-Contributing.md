@@ -36,7 +36,8 @@ if you have ideas on how to make things clearer or think some of my current conv
 
 Rules:
 
-- No spaces in filenames&mdash;use dashes instead. Some of use terminals. Also avoid single/double quotes (just omit them; for example <u>Don't Prep Plots</u> becomes [[Alexandrian--Dont-Prep-Plots]]).
+- No spaces in filenames&mdash;use dashes instead. Some of us use terminals. 
+- Avoid single/double quotes (just omit them; for example <u>Don't Prep Plots</u> becomes [[Alexandrian--Dont-Prep-Plots]]).
 - Capitalize-Each-Word
 
 Loose Guidelines:
@@ -92,4 +93,4 @@ This guide assumes you've used git before. If you haven't, refer to the git cont
 
 This lets you use your own hotkeys/settings/etc. without accidentally modifying the vault settings.
 
-Before PRing, be sure to check over any of your files in Reading Mode with the `.obsidian` folder's config instead of your custom config.
+Before submitting a pull request (PRing), be sure to check over any of your files in Reading Mode with the `.obsidian` folder's config instead of your custom config.
