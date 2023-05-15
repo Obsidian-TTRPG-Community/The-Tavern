@@ -1,3 +1,10 @@
+---
+attribution: ["jethoof", "LittleMaelstrom"]
+creation: 2023-05-05
+modified: 2023-05-13
+type: other
+---
+
 > [!NOTE] Prompt:
 > 
 > - Persuade Creature

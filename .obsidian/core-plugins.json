@@ -8,11 +8,9 @@
   "outgoing-link",
   "tag-pane",
   "page-preview",
-  "templates",
   "note-composer",
   "command-palette",
   "editor-status",
   "bookmarks",
-  "outline",
-  "workspaces"
+  "outline"
 ]
