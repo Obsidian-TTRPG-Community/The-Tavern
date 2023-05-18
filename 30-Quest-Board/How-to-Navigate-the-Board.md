@@ -15,7 +15,7 @@ This is not a campaign settings guide or Source Reference Document (SRD) but som
 # How to Navigate this Vault
 You would need [Javalent's Dice Roller](https://github.com/javalent/dice-roller) plugin for your vault to view the results, otherwise it would look like bunch of codes in the Dice Rolls 
 ## Callout Uses
-> [!tldr] Summary
+> [!Summary] 
 > This would be at the very top of the document as a quick reminder of what this section is about.
 
 > [!error] Dice Rolls
