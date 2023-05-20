@@ -7,7 +7,7 @@ type: guide
 
 # Creating Creatures for Encounters
 
-> [!tldr] Creating Creatures for Encounte
+> [!tldr] Creating Creatures for Encounter
 > - Use the [[#Tables]] to pick or generate the creature
 > - Breathe life into the creature by creating its lore
 > - Create mechanics based on the lore
@@ -30,7 +30,7 @@ If you want to skew the rolls, feel free to add or subtract modifiers (+/- 10 or
 Let's combine all the tables together to generate an encounter for the adventuring party:
 
 > [!error] Roll: Encounter Creator
-> `dice:[[Tips on Creating Creatures for Encounters#^table4]]` `dice:[[Tips on Creating Creatures for Encounters#^table3]]` `dice:[[Tips on Creating Creatures for Encounters#^table1]]` `dice:[[Tips on Creating Creatures for Encounters#^table2]]` `dice:[[Tips on Creating Creatures for Encounters#^table2]]`(optional) 
+> `dice:[[Tips-on-Creating-Creatures-for-Encounters#^table4]]` `dice:[[Tips-on-Creating-Creatures-for-Encounters#^table3]]` `dice:[[Tips-on-Creating-Creatures-for-Encounters#^table1]]` `dice:[[Tips-on-Creating-Creatures-for-Encounters#^table2]]` `dice:[[Tips-on-Creating-Creatures-for-Encounters#^table2]]`(optional) 
 ^dice1
 
 ## The Concept

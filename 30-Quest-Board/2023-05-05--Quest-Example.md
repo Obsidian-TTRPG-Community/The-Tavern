@@ -5,6 +5,7 @@ modified: 2023-05-13
 type: other
 ---
 
+# Quest Example - 2023-05-05
 > [!NOTE] Prompt:
 > 
 > - Persuade Creature
