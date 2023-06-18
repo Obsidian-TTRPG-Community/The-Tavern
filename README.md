@@ -10,15 +10,15 @@ I decided to go with 'fun' tavern-related folder names for the top-level directo
 Don't worry, the rest of the folders are named normally.
 Here's a key for the rest:
 
-- 00-Behind-The-Bar
+- [[00-Behind-The-Bar]]
     - Any meta information about the vault goes here, like an index of folders.
     - Attachments/Templater scripts & generally things that make the vault work go here.
-- 10-The-Bar
-    - I'm not sure, I just liked the name.
-- 20-Bathroom-Library
+- [[10-The-Bar]]
+    - One-stop shop for finding things; here lies [[Help-whats-an-MoC|MoCs]] and various reference material not worthy of a note in the [[20-Bathroom-Library|Bathroom Library]].
+- [[20-Bathroom-Library]]
     - Other resources, summaries thereof, guides, etc.
-- 30-Quest-Board
-    - Adventure inspiration
+- [[30-Quest-Board]]
+    - Adventure inspiration, courtesy of [jethoof](https://github.com/jethoof)
 
 ## License
 
