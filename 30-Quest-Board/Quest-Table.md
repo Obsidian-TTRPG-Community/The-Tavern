@@ -22,6 +22,19 @@ type: other
 > - `dice:[[Quest-Table#^table1]]` `dice:[[Quest-Table#^table2]]`
 ^dice1
 
+
+> [!error] Quest Version 2
+> Here is the quest description and three optional, you could either swap in or add to enrich your quest.
+> 
+> - `dice:[[Quest-Table#^table1]]` `dice:[[Quest-Table#^table2]]`
+>
+> Optional
+> - `dice:[[Quest-Table#^table1]]` `dice:[[Quest-Table#^table2]]`
+> -  `dice:[[Quest-Table#^table1]]` `dice:[[Quest-Table#^table2]]`
+> - `dice:[[Quest-Table#^table1]]` `dice:[[Quest-Table#^table2]]`
+> 
+^dice2
+
 ## Creating a Complex Quest
 You can create a complex quest structure by creating milestones for the quest,
 
