@@ -23,6 +23,6 @@ Don't let that pre-determinism [[Alexandrian--The-Railroading-Manifesto|leak int
 	- [[Alexandrian--Principles-of-RPG-Villany]]
 	- [[Alexandrian--Surprising-Scenario-Hooks]]
 	- [[Alexandrian--Running-The-Sandbox]]
-- [Film Reroll](https://www.filmreroll.com/) is an actual-play podcast where the group plays through movies, but things tend to go in very different directions than the movie the session was based on. [^Source]
+- [Film Reroll](https://www.filmreroll.com/)%% [[Pocast--Film-Reroll]] %% is an actual-play podcast where the group plays through movies, but things tend to go in very different directions than the movie the session was based on. [^Source]
 
 [^Source]:  Source: `@username824`s comment on `=elink(this.link, "the video")`.
