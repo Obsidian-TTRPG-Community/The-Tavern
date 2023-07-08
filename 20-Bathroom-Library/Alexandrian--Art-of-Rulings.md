@@ -24,8 +24,10 @@ Justin has 3 guiding principles in his Art of Rulings:
 
 First, assume the players generally notice things. Sometimes this might require a successful check, but the player shouldn't have to ask if they, say, recognize the the family crest of an ornamental shield, the GM should just call for a roll if they might.  If someone's hiding in the bushes, the player shouldn't have to ask if someone is hiding in the bushes, the GM should call for a Spot check. "Passive Observation of the world is automatically triggered."
 
-Secondly, the __role play__ in role playing game is important. Things that aren't passive *should* require an explicit statement of action. A character playing a rogue, is *role playing* the rogue; putting themselves in the shoes of the rogue. Part of playing the role of a rogue is **choosing** to do the things a rogue could do, like checking a chest for traps. Don't take this too far; the character in question *does have expertise*, so let them use that expertise. 
+Secondly, the __role play__ in role playing game is important. Things that aren't passive *should* require an explicit statement of action. A player playing a rogue, is *role playing* the rogue; putting themselves in the shoes of the rogue. Part of playing the role of a rogue is **choosing** to do the things a rogue could do, like checking a chest for traps. Don't take this too far; the character in question *does have expertise*, so let them use that expertise. 
 "Player expertise activates character expertise" (but it doesn't have to *replace* character expertise).
 
-Finally, if a player makes a meaningful choice, you shouldn't take that choice away because it's not expertise that the character has. If you're playing a barbarian and you-the-player decide to explicitly check the bottom of a chest for hidden compartments, you should get some sort of circumstantial bonus to your check if that's where the hidden compartments are. 
-If your barbarian smashes the chest open
+Finally, if a player makes a meaningful choice, you shouldn't take that choice away because it's not expertise that the character has. If you're playing a barbarian and you-the-player decide to explicitly check the bottom of a chest for hidden compartments, you should get some sort of circumstantial bonus to your check if that's where the hidden compartments are even though your barbarian probably doesn't have the experience with searching chests to know that chests often have hidden compartments on the bottom. 
+But equally, if your barbarian smashes the chest open, they're going to find any hidden compartments, no need to call for a Search check at all. 
+"Player expertise can trump character expertise."
+
