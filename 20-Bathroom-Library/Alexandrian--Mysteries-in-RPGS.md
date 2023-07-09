@@ -32,7 +32,7 @@ The Players shouldn't need more than 1 clue to figure the conclusion out, though
 ## Related
 
 - This video is based on [[Alexandrian--Three-Clue-Rule]]
-- [Gumshoe](https://pelgranepress.com/2018/02/14/gumshoe/) referenced [2.5 minutes into the video](https://youtu.be/FgVM8-vbhZA?t=149) is a system built around never letting a crucial clue depend on a skill check.
+- [Gumshoe](https://pelgranepress.com/2018/02/14/gumshoe/)%% [[Systems--Gumshoe|Gumshoe]] %% referenced [2.5 minutes into the video](https://youtu.be/FgVM8-vbhZA?t=149) is a system built around never letting a crucial clue depend on a skill check.
 
 ## Random Notes
 
