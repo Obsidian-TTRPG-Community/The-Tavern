@@ -38,7 +38,7 @@ type: other
 ## Creating a Complex Quest
 You can create a complex quest structure by creating milestones for the quest,
 
-![[QotW2023-19]]
+![[QotW-2023W19]]
 
 # Tables
 

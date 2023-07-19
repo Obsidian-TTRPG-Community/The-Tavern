@@ -1,5 +1,5 @@
 ---
-attribution: <% tp.file.cursor(0) %>
+attribution: Crafitdore
 creation: 2023-07-07
 modified: 2023-07-07
 type: folder
