@@ -16,7 +16,7 @@ There's a human in the corner of the tavern sipping his drink from a strange loo
 
 "Not the curtain, the thing behind the curtain." The man stands up to slightly reveal the curtain; a small office with many doors comes to a view. As you walk through the curtain, the man follows behind you. 
 
-"Welcome to Jethoof's Emporium of Requests." He bows gracefully, here are some of the requests from the multiverse looking for brave traveler like yourself to solve their conundrums. They are willing to reward you handsomely should you solve their troubles.  Feel free to examine the doors, they come with their wish list to be fulfilled. To accept the request, you just simply need to enter."
+"Welcome to Jethoof's Emporium of Requests." He bows gracefully, here are some of the requests from the multiverse looking for brave traveler like yourself to solve their conundrums. They are willing to reward you handsomely should you solve their troubles.  Feel free to examine the doors, they come with their wish list to be fulfilled. To accept the request, you just simply need to enter." ^f97790
 
 # Quest Board
 I know you have the big idea of heroes saving the world from certain doom and sometimes there can be some event the heroes stumble upon during their journey. Perhaps this is the main course for your campaign.  There are many reference books out there you can use to draw inspiration from and this is my method of generating events. These can be used for you to generate the main, sub and side plots when you feel you are stuck. 

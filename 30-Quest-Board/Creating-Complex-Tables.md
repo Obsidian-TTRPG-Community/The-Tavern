@@ -37,6 +37,7 @@ The above table has 15% rolling option 1 and 4 while 30% for option 2 and 3.
 > [!example]- Table Output at Work
 > `dice:[[Creating-Complex-Tables#^table1]]` and `dice:[[Creating-Complex-Tables#^table1]]` can happen.
 ^example2
+
 This works for one set of topics but what if we can go deeper? We can add the tables within the table.
 
 ###### Table 2 - 1d4 Table 
@@ -52,6 +53,7 @@ This works for one set of topics but what if we can go deeper? We can add the ta
 > `dice:[[Creating-Complex-Tables#^table2]]` can happen. 
 > 
 ^example3
+
 You can see now the option 5 is 50% and option 6 is 25% while Option 1-4 is now lot lower because it's nested within the 25%. If you make tables that are basic building blocks you can combine into a complex one. Yes probability can be daunting but you don't have to think about it with this structure, the bigger the range, the greater the probability. The more nested it is, the less likely it would happen. I hope (but that's never really the case is it?)
 
 ###### Table 3 - Location
